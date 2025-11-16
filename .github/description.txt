@@ -1,0 +1,1 @@
+Telegram bot for encrypting and decrypting files using AES-256 encryption. Supports various file types with secure password-based operations and temporary storage.
